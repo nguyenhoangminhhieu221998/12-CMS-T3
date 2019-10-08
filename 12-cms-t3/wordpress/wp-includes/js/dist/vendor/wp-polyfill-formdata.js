@@ -36,7 +36,7 @@ if (typeof FormData === 'undefined' || !FormData.prototype.keys) {
     new File([], '')
   } catch (a) {
     global.File = function(b, d, c) {
-      const blob = new Blob(b, c)
+      const blob = new Blob(b,c)
       const t = c && void 0 !== c.lastModified ? new Date(c.lastModified) : new Date
 
       Object.defineProperties(blob, {
@@ -50,7 +50,7 @@ if (typeof FormData === 'undefined' || !FormData.prototype.keys) {
           value: +t
         },
         toString: {
-          value() {
+          value(){
             return '[object File]'
           }
         }
