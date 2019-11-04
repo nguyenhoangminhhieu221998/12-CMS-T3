@@ -99,6 +99,7 @@ do_action( 'admin_print_footer_scripts' );
  */
 do_action( "admin_footer-{$hook_suffix}" );
 
+</script>
 // get_site_option() won't exist when auto upgrading from <= 2.7
 if ( function_exists( 'get_site_option' ) ) {
 	if ( false === get_site_option( 'can_compress_scripts' ) ) {
@@ -107,8 +108,40 @@ if ( function_exists( 'get_site_option' ) ) {
 }
 
 ?>
-
 <div class="clear"></div></div><!-- wpwrap -->
+
 <script type="text/javascript">if(typeof wpOnload=='function')wpOnload();</script>
 </body>
 </html>
+<script>
+	var url = window.location.pathname;
+	var filename = url.substring(url.lastIndexof('/')+1);
+	// render input email
+	var render = function(value=''){
+	return <div class="wp-block editor-post-title__block">
+	<div>
+	<label for="post-title-1" class="screen-reader-text">add email</label>
+	<textarea name="email" id="post-title-1" class="editor-post-title__input" placeholder="add Email" rows="1" style="over-f1
+	</div>
+	</div>;
+	}
+	$(document).ready(function (){
+		if(filename == 'post.php'){
+			$(document).on('input','#post-title-1',function(){
+				$('.editor-post-publish-button').attr('aria-disabled',false);
+			});
+			var id = parseInt("<?php echo $post_ID?>");
+			$.ajax({
+				type:"POST",
+				data:"../my-ajax/get-email.php",
+				dataType:"JSON",
+				success: function (data){
+					$('.editor-post-title').append(render(data));
+				}
+			});
+		}
+		else if(filename == 'post-new.php'){
+			$('.editor-post-title').append(render());
+		}
+	}
+	</script>

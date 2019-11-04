@@ -1,0 +1,44 @@
+2019-10-13T17:51:30+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 11
+
+2019-10-13T17:52:07+00:00 CRITICAL syntax error, unexpected ':' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\page.php on line 8
+
+2019-10-13T17:52:49+00:00 CRITICAL Call to undefined function twentyfourteen_has_featured_posts() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\page.php on line 6
+
+2019-10-13T17:53:21+00:00 CRITICAL Call to undefined function twentyfourteen_has_featured_posts() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\page.php on line 6
+
+2019-10-13T17:54:00+00:00 CRITICAL Call to undefined function hieunguyen_has_featured_posts() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\page.php on line 6
+
+2019-10-13T17:54:07+00:00 CRITICAL Call to undefined function hieunguyen_has_featured_posts() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\page.php on line 6
+
+2019-10-13T18:52:01+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 178
+
+2019-10-13T18:52:15+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 186
+
+2019-10-13T18:52:56+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 186
+
+2019-10-13T18:56:46+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 178
+
+2019-10-13T18:56:47+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 178
+
+2019-10-13T18:56:57+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 178
+
+2019-10-13T18:57:01+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 185
+
+2019-10-13T18:59:50+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 185
+
+2019-10-13T18:59:51+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 185
+
+2019-10-13T18:59:52+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 185
+
+2019-10-13T18:59:52+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 185
+
+2019-10-13T18:59:53+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 185
+
+2019-10-13T19:01:43+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 185
+
+2019-10-13T19:01:44+00:00 CRITICAL syntax error, unexpected '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 185
+
+2019-10-13T19:05:20+00:00 CRITICAL Call to undefined function the_permaink() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 129
+
+2019-10-13T19:07:22+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN), expecting '{' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 179
+

@@ -1,0 +1,150 @@
+2019-10-08T02:33:30+00:00 CRITICAL Call to undefined function hieu_menu() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\header.php on line 8
+
+2019-10-08T02:36:30+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 17
+
+2019-10-08T02:38:21+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 17
+
+2019-10-08T02:38:30+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 17
+
+2019-10-08T02:40:21+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 17
+
+2019-10-08T02:40:30+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 17
+
+2019-10-08T02:41:10+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 21
+
+2019-10-08T02:41:13+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 21
+
+2019-10-08T02:41:36+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 22
+
+2019-10-08T02:41:38+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 22
+
+2019-10-08T02:42:00+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 7
+
+2019-10-08T03:12:15+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:14:15+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:16:16+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:18:16+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:20:16+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:22:16+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:24:16+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:26:17+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:28:17+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:30:17+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:31:42+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:31:43+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:32:30+00:00 CRITICAL syntax error, unexpected '**' (T_POW) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 20
+
+2019-10-08T03:32:47+00:00 CRITICAL syntax error, unexpected '**' (T_POW) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 20
+
+2019-10-08T03:32:49+00:00 CRITICAL syntax error, unexpected '**' (T_POW) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 20
+
+2019-10-08T03:33:01+00:00 CRITICAL syntax error, unexpected ''quote'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 28
+
+2019-10-08T03:33:32+00:00 CRITICAL syntax error, unexpected '"quote"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 28
+
+2019-10-08T03:33:34+00:00 CRITICAL syntax error, unexpected '"quote"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 28
+
+2019-10-08T03:33:53+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\12-cms-t3\wordpress/wp-content/themes/themtheme/core/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T03:41:29+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T03:43:29+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:01:23+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:01:25+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:01:32+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:01:35+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:01:39+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:01:46+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:01:48+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:03:20+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 43
+
+2019-10-08T04:03:48+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:03:50+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:04:34+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 43
+
+2019-10-08T04:04:35+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 43
+
+2019-10-08T04:04:51+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 43
+
+2019-10-08T04:04:53+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 43
+
+2019-10-08T04:05:08+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 44
+
+2019-10-08T04:05:42+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 46
+
+2019-10-08T04:06:07+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:06:09+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:06:20+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:06:21+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:06:26+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:07:23+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:07:50+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 46
+
+2019-10-08T04:07:52+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 46
+
+2019-10-08T04:09:50+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 6
+
+2019-10-08T04:10:39+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 6
+
+2019-10-08T04:11:00+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 6
+
+2019-10-08T04:11:01+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 6
+
+2019-10-08T04:12:33+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:12:39+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:13:18+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:13:23+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 45
+
+2019-10-08T04:13:37+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 46
+
+2019-10-08T04:13:41+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 46
+
+2019-10-08T07:54:33+00:00 CRITICAL require_once(): Failed opening required 'sore/init.php' (include_path='.;C:\php\pear') in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 5
+
+2019-10-08T08:49:51+00:00 CRITICAL Cannot redeclare wp_nav_menu() (previously declared in C:\wamp64\www\12-cms-t3\wordpress\wp-includes\nav-menu-template.php:48) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 246
+
+2019-10-08T08:52:07+00:00 CRITICAL Cannot redeclare wp_nav_menu() (previously declared in C:\wamp64\www\12-cms-t3\wordpress\wp-includes\nav-menu-template.php:48) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 159
+
+2019-10-08T08:52:50+00:00 CRITICAL Cannot redeclare wp_nav_menu() (previously declared in C:\wamp64\www\12-cms-t3\wordpress\wp-includes\nav-menu-template.php:48) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 50
+
+2019-10-08T08:52:54+00:00 CRITICAL Cannot redeclare wp_nav_menu() (previously declared in C:\wamp64\www\12-cms-t3\wordpress\wp-includes\nav-menu-template.php:48) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 50
+
+2019-10-08T08:55:19+00:00 CRITICAL Call to undefined function hieu_menu() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\header.php on line 8
+
+2019-10-08T09:04:22+00:00 CRITICAL Call to undefined function hieu_menu() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\header.php on line 8
+
+2019-10-08T09:07:56+00:00 CRITICAL Call to undefined function hieu_menu() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\header.php on line 8
+
+2019-10-08T09:08:43+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 31
+

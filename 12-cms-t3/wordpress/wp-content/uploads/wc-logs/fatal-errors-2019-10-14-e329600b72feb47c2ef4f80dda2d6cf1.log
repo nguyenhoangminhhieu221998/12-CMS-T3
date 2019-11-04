@@ -1,0 +1,28 @@
+2019-10-14T03:29:16+00:00 CRITICAL Call to undefined function the_permaink() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 129
+
+2019-10-14T03:35:24+00:00 CRITICAL Call to undefined function hieunguyen_logo() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\header.php on line 12
+
+2019-10-14T03:38:41+00:00 CRITICAL Call to undefined function the_permaink() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 129
+
+2019-10-14T03:44:13+00:00 CRITICAL Call to undefined function the_permaink() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 129
+
+2019-10-14T03:45:46+00:00 CRITICAL Call to undefined function the_permaink() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 129
+
+2019-10-14T03:51:03+00:00 CRITICAL Call to undefined function the_permaink() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 129
+
+2019-10-14T03:54:09+00:00 CRITICAL Call to undefined function the_permaink() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\functions.php on line 129
+
+2019-10-14T03:57:21+00:00 CRITICAL Call to undefined function hieunguyen_enry_content() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\content.php on line 11
+
+2019-10-14T04:04:23+00:00 CRITICAL Call to undefined function hieunguyen_enry_content() in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\content.php on line 11
+
+2019-10-14T04:05:17+00:00 CRITICAL syntax error, unexpected ')' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\sidebar.php on line 1
+
+2019-10-14T04:06:09+00:00 CRITICAL syntax error, unexpected ':' in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\sidebar.php on line 1
+
+2019-10-14T04:06:29+00:00 CRITICAL syntax error, unexpected 'dynamic_sidebar' (T_STRING) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\sidebar.php on line 2
+
+2019-10-14T04:07:01+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\sidebar.php on line 3
+
+2019-10-14T04:10:53+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\wamp64\www\12-cms-t3\wordpress\wp-content\themes\themtheme\sidebar.php on line 7
+

@@ -1,7 +1,14 @@
 <!DOCTYPE html>
-<html>
- <head>
- <?php wp_head(); ?>
- </head>
-
- <body>
+<html <?php language_attributes();?>/>
+<head>
+    <meta charset="<?php bloginfo('charset');?>"/>
+    <link rel="profile" href="http://gmgp.org/xfn/11"/>
+    <link rel="pingback" href="<?php bloginfo('pingback_url');?>"/>
+    <?php wp_head(); ?>
+</head>
+<body <?php body_class(); ?> >
+    <div id="container">
+    <div class="logo">
+        <?php hieunguyen_header(); ?>
+        <?php hieunguyen_menu('primary-menu'); ?>
+    </div>

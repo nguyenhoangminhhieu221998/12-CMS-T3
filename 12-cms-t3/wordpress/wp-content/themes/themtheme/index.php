@@ -1,19 +1,18 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h2><?php echo "Welcome to Wordpress "; ?></h2>
-<p>Hello.</p>
-<p>Chào tất cả các bạn đã đến với wordpress.</p>
 
-</body>
-</html>
-<?php get_header();
+<?php get_header(); ?>
+<div class="content">
+    <div id="main-content">
+        <?php if(have_posts()): while (have_posts()): the_post(); ?>
 
- if ( have_posts() ) :
- get_template_part( 'content');
- else :
- get_template_part( 'content', 'none' );
- endif;
-
- get_sidebar();
-get_footer(); ?>
+            <?php get_template_part('content', get_post_format()); ?>
+        <?php endwhile; ?>
+        <?php hieunguyen_pagination(); ?>
+        <?php else: ?>
+            <?php get_template_part('content','none'); ?>
+        <?php endif; ?>
+    </div>
+    <div id="sidebar">
+        <?php get_sidebar(); ?>
+    </div>
+</div>
+<?php get_footer(); ?>

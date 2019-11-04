@@ -604,6 +604,7 @@ class WP_Posts_List_Table extends WP_List_Table {
 
 		/* translators: manage posts column name */
 		$posts_columns['title'] = _x( 'Title', 'column name' );
+		$posts_columns['email'] = _x( 'Email', 'column name' );
 
 		if ( post_type_supports( $post_type, 'author' ) ) {
 			$posts_columns['author'] = __( 'Author' );
